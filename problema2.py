@@ -169,5 +169,5 @@ if __name__ == "__main__":
     else:
         print("  Sí hay evidencia de diferencia entre ambas muestras.")
 
-    print("\nListo. Histogramas guardados en ex2_histogramas.png")
+    print("\n Histogramas guardados en ex2_histogramas.png")
     
